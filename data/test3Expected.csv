@@ -1,0 +1,4 @@
+document_date,patient_id,gender,birthdate,document_id,service
+2021-07-11,5487589844736575979,0,1952-04-01,1400000001241646,Cardiology Outpatient Service
+2018-08-07,8512266723729759158,1,1955-01-01,1400000001243003,Traumatology Service
+2017-02-02,23,2,1955-01-01,1400000001243553,Cardiology Outpatient Service

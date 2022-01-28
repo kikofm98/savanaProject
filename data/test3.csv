@@ -1,0 +1,4 @@
+original_document_date,original_patient_id,original_gender,original_birthdate,original_document_id,original_service
+"11 07 2021","5487589844736575979",n/s,04-1952,1400000001241646,Cardio_Acute_Outpatient
+2018-08-07,8512266723729759158,male,01/01/1955,”1400000001243003”,Bone_Trauma_Emergency
+"02 02 2017",0000000000000000023,female,1955-01-01,1400000001243553,Cardio_Acute_Outpatient
